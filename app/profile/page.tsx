@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import data from "../data.json";
+import data from "../../data.json";
 
 type Profile = {
   name: string;
